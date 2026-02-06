@@ -20,17 +20,17 @@ img {
 
 @font-face {
   font-family: "relationship_of_mlodrameRg";
-  src: url("relationship_of_melodrame-webfont.woff2") format("woff2");
+  src: url(VT323-webfontkit-20260205/relationship_of_melodrame-webfont.woff2) format("woff2");
   font-weight: normal;
   font-style: normal;
 }
-/*
+
 @font-face {
   font-family: "silkscreen_expandednormal";
-  src: url("slkscre-webfont.woff2") format("woff2");
+  src: url(silkscre/slkscre-webfont.woff2) format("woff2");
   font-weight: normal;
   font-style: normal;
-}*/
+}
 
 .computere {
   font-family: "Do Hyeon", sans-serif;
@@ -153,12 +153,13 @@ footer {
   background-color: #f9d7f2;
 }
 
-h3 {
+h2 {
   font-family: "relationship_of_mlodrameRg";
-  font-size: 1.2rem;
-  font-style: italic;
-  font-weight: bolder;
+  font-size: 2rem;
+  font-style: normal;
+  font-weight: bold;
 }
+
 /*.cooling {
   font-family: "silkscreen_expandednormal";
   font-size: 1.5rem;
