@@ -25,13 +25,6 @@ img {
   font-style: normal;
 }
 
-@font-face {
-  font-family: "silkscreen_expandednormal";
-  src: url(silkscre/slkscre-webfont.woff2) format("woff2");
-  font-weight: normal;
-  font-style: normal;
-}
-
 .computere {
   font-family: "Do Hyeon", sans-serif;
   color: #9c3306;
@@ -168,9 +161,3 @@ h2 {
   font-style: normal;
   font-weight: bold;
 }
-
-/*.cooling {
-  font-family: "silkscreen_expandednormal";
-  font-size: 1.5rem;
-}
-*/
