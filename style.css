@@ -103,7 +103,7 @@ p {
   padding: 0.2rem;
 }
 .p_link {
-  padding: 0.2rem;
+  text-wrap: pretty;
 }
 main {
   margin-left: 0.7rem;
